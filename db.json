@@ -1,0 +1,1587 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": "Pratos Principais",
+            "image": "https://www.socialbauru.com.br/wp-content/uploads/2024/05/categoria-prato-principal-3.jpg"
+        },
+        {
+            "id": 2,
+            "name": "Bebidas",
+            "image": "https://blog.webbar.com.br/wp-content/uploads/2023/07/159304.png"
+        },
+        {
+            "id": 3,
+            "name": "Sobremesas",
+            "image": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-sobremesas-4.jpg"
+        },
+        {
+            "id": 4,
+            "name": "Petiscos",
+            "image": "https://topreceitas.com.br/wp-content/uploads/2020/08/free-photo-of-close-up-of-meat-and-fries-scaled-829x550.jpeg"
+        },
+        {
+            "id": 6,
+            "name": "Massas",
+            "image": "https://www.academiaassai.com.br/sites/default/files/styles/noticia_1020x640/public/dicas-de-como-fazer-a-massa-perfeita-macarrao-penne.jpg?itok=9KWmbgEQ"
+        },
+        {
+            "id": 8,
+            "name": "Lanches",
+            "image": "https://www.acidadeon.com/tudoep/wp-content/uploads/sites/10/2023/12/lanches_gratis_1200x675_27102023115024.jpg"
+        },
+        {
+            "id": 10,
+            "name": "Burgers"
+        }
+    ],
+    "menu": [
+        {
+            "category_id": 1,
+            "items": [
+                {
+                    "id": 1,
+                    "name": "Feijoada Completa",
+                    "price": 35.90,
+                    "description": "Feijão preto, carne de porco, arroz, farofa e couve.",
+                    "ingredients": [
+                        "feijão preto",
+                        "carne de porco",
+                        "arroz",
+                        "farofa",
+                        "couve"
+                    ],
+                    "image": "https://cdn.shopify.com/s/files/1/0748/1684/8190/files/20240717170612-recipe-20kit-20thumbnail-20photo-20-20-20.png?v=1721235975&width=1600&height=900",
+                    "images": [
+                        "https://cdn.shopify.com/s/files/1/0748/1684/8190/files/20240717170612-recipe-20kit-20thumbnail-20photo-20-20-20.png?v=1721235975&width=1600&height=900",
+                        "https://www.atribuna.com.br/image/policy:1.362415:1699373150/image.jpg",
+                        "https://cdn.acritica.net/img/pc/920/600/dn_arquivo/2024/05/feij.jpg"
+                    ],
+                    "portion_size": "Porção para 2 pessoas"
+                },
+                {
+                    "id": 2,
+                    "name": "Bife à Parmegiana",
+                    "price": 29.90,
+                    "description": "Bife empanado coberto com molho de tomate e queijo gratinado.",
+                    "ingredients": [
+                        "bife",
+                        "molho de tomate",
+                        "queijo"
+                    ],
+                    "image": "https://receitatodahora.com.br/wp-content/uploads/2023/09/bife-a-parmegiana-22-0911.jpg",
+                    "images": [
+                        "https://receitatodahora.com.br/wp-content/uploads/2023/09/bife-a-parmegiana-22-0911.jpg",
+                        "https://www.estadao.com.br/resizer/v2/WSWGR3VNIVEMZEDCZ3DPAQD3BQ.jpg?quality=80&auth=1e80a50a274f370b5a498c5c05e3c3922fcfcc23a8d31821b4ab182863e56060&width=720&height=503&smart=true",
+                        "https://minhasreceitinhas.com.br/wp-content/uploads/2016/12/bife-a-parmegiana-scaled.jpg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 3,
+                    "name": "Frango Grelhado com Legumes",
+                    "price": 27.50,
+                    "description": "Peito de frango grelhado acompanhado de legumes assados.",
+                    "ingredients": [
+                        "peito de frango",
+                        "abobrinha",
+                        "cenoura",
+                        "tomate",
+                        "alho"
+                    ],
+                    "image": "https://receitacomsabor.com.br/wp-content/uploads/2024/06/Frango-Grelhado-com-Quinoa-e-Legumes-Assados-768x512.png",
+                    "images": [
+                        "https://receitacomsabor.com.br/wp-content/uploads/2024/06/Frango-Grelhado-com-Quinoa-e-Legumes-Assados-768x512.png",
+                        "https://reeduacaoalimentar.com/wp-content/uploads/2024/07/64a91a48-9301-44a7-a63f-424d015b44e9-1-1-768x512.jpg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 4,
+                    "name": "Carne de Panela",
+                    "price": 32.00,
+                    "description": "Carne cozida lentamente, servida com arroz e batatas.",
+                    "ingredients": [
+                        "carne de boi",
+                        "batata",
+                        "alho",
+                        "cebola",
+                        "tomate"
+                    ],
+                    "image": "https://s2-receitas.glbimg.com/wpXuiO6X_uhPR4zya2GdYJ5Y2uI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/C/k/FH6JwZRxe5q3bUrZASYA/carne-de-panela-com-batatas.jpg",
+                    "images": [
+                        "https://s2-receitas.glbimg.com/wpXuiO6X_uhPR4zya2GdYJ5Y2uI=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2022/C/k/FH6JwZRxe5q3bUrZASYA/carne-de-panela-com-batatas.jpg",
+                        "https://cdn0.tudoreceitas.com/pt/posts/4/0/0/carne_de_panela_4_orig.jpg",
+                        "https://acdn.mitiendanube.com/stores/001/391/305/products/carne-panela-vegana-arroz-mix-legumes-350g-comprar2-7883304cd503bd2ab016597963121450-640-0.jpg"
+                    ],
+                    "portion_size": "Porção para 2 pessoas"
+                },
+                {
+                    "id": 5,
+                    "name": "Moqueca Baiana",
+                    "price": 38.90,
+                    "description": "Peixe cozido com azeite de dendê, leite de coco e pimentões.",
+                    "ingredients": [
+                        "peixe",
+                        "dendê",
+                        "leite de coco",
+                        "pimentões"
+                    ],
+                    "image": "https://www.estadao.com.br/resizer/v2/TFCR7BBZKNPUFNQHCMSMELCLHI.jpg?quality=80&auth=362db4f87d39715256c1a909f08568a8a7b9d3dd1cfebce214e7b6046f2123da&width=1200",
+                    "images": [
+                        "https://www.estadao.com.br/resizer/v2/TFCR7BBZKNPUFNQHCMSMELCLHI.jpg?quality=80&auth=362db4f87d39715256c1a909f08568a8a7b9d3dd1cfebce214e7b6046f2123da&width=1200",
+                        "https://p2.trrsf.com/image/fget/cf/1200/900/middle/images.terra.com/2022/11/11/2964121200621037767003-qhncymxp0x2e.jpg",
+                        "https://lirp.cdn-website.com/33406c6e/dms3rep/multi/opt/Moqueca-8a96462e-1920w.jpg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 6,
+                    "name": "Estrogonofe de Carne",
+                    "price": 30.00,
+                    "description": "Carne em tiras com molho cremoso de mostarda e cogumelos.",
+                    "ingredients": [
+                        "carne",
+                        "cogumelos",
+                        "creme de leite",
+                        "mostarda"
+                    ],
+                    "image": "https://guiadacozinha.com.br/wp-content/uploads/2030/10/estrogonofe-de-carne-tradicional.jpg",
+                    "images": [
+                        "https://guiadacozinha.com.br/wp-content/uploads/2030/10/estrogonofe-de-carne-tradicional.jpg",
+                        "https://assets.unileversolutions.com/recipes-v2/214763.jpg",
+                        "https://guiadacozinha.com.br/wp-content/uploads/2013/01/estrogonofedepicanha.jpg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 7,
+                    "name": "Feijão Tropeiro",
+                    "price": 28.00,
+                    "description": "Feijão misturado com arroz, carne de sol e farofa.",
+                    "ingredients": [
+                        "feijão",
+                        "carne de sol",
+                        "arroz",
+                        "farofa"
+                    ],
+                    "image": "https://receitatodahora.com.br/wp-content/uploads/2022/08/feijao-tropeiro-facil-1-1024x683.jpg",
+                    "images": [
+                        "https://receitatodahora.com.br/wp-content/uploads/2022/08/feijao-tropeiro-facil-1-1024x683.jpg",
+                        "https://24698e6a.delivery.rocketcdn.me/wp-content/uploads/2023/02/2-2.png",
+                        "https://itanareceitas.com.br/wp-content/uploads/2024/10/Feijao_Tropeiro_1-768x512.webp"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 8,
+                    "name": "Arroz de Pato",
+                    "price": 36.50,
+                    "description": "Arroz com pato desfiado e legumes, cozido em caldo de galinha.",
+                    "ingredients": [
+                        "pato",
+                        "arroz",
+                        "caldo de galinha",
+                        "cenoura",
+                        "cebola"
+                    ],
+                    "image": "https://www.pingodoce.pt/wp-content/uploads/2016/12/arroz-de-pato.jpeg",
+                    "images": [
+                        "https://www.pingodoce.pt/wp-content/uploads/2016/12/arroz-de-pato.jpeg",
+                        "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/101C5A5D-C290-4A58-B372-A0100BC48778/Derivates/1FAC3616-88EB-4B3F-B68A-7B0CB5DAF2C9.jpg",
+                        "https://i.ytimg.com/vi/BrwjpOsMAxY/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLD7734z3Mtozz78JnNRsleXM1X1YQ"
+                    ],
+                    "portion_size": "Porção para 2 pessoas"
+                },
+                {
+                    "id": 9,
+                    "name": "Peixe ao Molho de Alcaparras",
+                    "price": 40.00,
+                    "description": "Peixe grelhado servido com molho de alcaparras e limão.",
+                    "ingredients": [
+                        "peixe",
+                        "alcaparras",
+                        "limão"
+                    ],
+                    "image": "https://www.receitasdepeixe.com.br/wp-content/uploads/2024/04/receita-de-tilapia-com-molho-de-alcaparras-e-azeitonas01.jpg",
+                    "images": [
+                        "https://www.receitasdepeixe.com.br/wp-content/uploads/2024/04/receita-de-tilapia-com-molho-de-alcaparras-e-azeitonas01.jpg",
+                        "https://i.ytimg.com/vi/KjPmoeA4yrQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAaBIptpPcWWcdUv9v_QZhhUIkaaQ",
+                        "https://cdn0.tudoreceitas.com/pt/posts/9/9/9/molho_de_alcaparras_para_peixe_11999_orig.jpg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 10,
+                    "name": "Churrasco Gaúcho",
+                    "price": 45.00,
+                    "description": "Assados no espeto com acompanhamentos como arroz, feijão e farofa.",
+                    "ingredients": [
+                        "carne",
+                        "arroz",
+                        "feijão",
+                        "farofa"
+                    ],
+                    "image": "https://img.freepik.com/fotos-premium/prato-tradicional-da-comida-brasileira-com-churrasco-feijao-arroz-e-salada_259266-1907.jpg",
+                    "images": [
+                        "https://img.freepik.com/fotos-premium/prato-tradicional-da-comida-brasileira-com-churrasco-feijao-arroz-e-salada_259266-1907.jpg",
+                        "https://churrasquita.com.br/wp-content/uploads/2023/04/churrasco-espeto-churrasqueira-gaucho.jpg",
+                        "https://blog-obahortifruti.redeoba.com.br/wp-content/uploads/2022/04/260-23_OB-CAPAS-1920X792-BLOG-ABR-CHURRASCO.jpg"
+                    ],
+                    "portion_size": "Porção para 4 pessoas"
+                }
+            ]
+        },
+        {
+            "category_id": 2,
+            "items": [
+                {
+                    "id": 21,
+                    "name": "Suco Natural de Laranja",
+                    "price": 6.50,
+                    "description": "Suco 100% natural, sem adição de açúcares.",
+                    "ingredients": [
+                        "laranja"
+                    ],
+                    "image": "https://i.pinimg.com/474x/39/46/89/3946894a2290cb6a74ebd8b1ff186421.jpg",
+                    "images": [
+                        "https://i.pinimg.com/474x/39/46/89/3946894a2290cb6a74ebd8b1ff186421.jpg",
+                        "https://www.santolegume.com.br/wp-content/uploads/suco-laranja-agua-coco.jpg",
+                        "https://www.draanaescobar.com.br/wp-content/uploads/2018/06/jarra-e-copo-com-suco-de-laranja-frutas-cortadas-e1563396583389.jpg"
+                    ],
+                    "portion_size": "500ml"
+                },
+                {
+                    "id": 22,
+                    "name": "Refrigerante Coca-Cola",
+                    "price": 4.00,
+                    "description": "Refrigerante clássico de cola.",
+                    "ingredients": [
+                        "agua gaseificada",
+                        "açúcar",
+                        "aroma"
+                    ],
+                    "image": "https://http2.mlstatic.com/D_NQ_NP_895739-MLB78819394220_092024-O.webp",
+                    "images": [
+                        "https://http2.mlstatic.com/D_NQ_NP_678281-MLB31684301765_082019-O.webp",
+                        "https://images.tcdn.com.br/img/img_prod/816596/coca_cola_lata_350ml_sabor_original_1503_2_316da21a214d3eaa1b8eb4bf0075527a.jpg",
+                        "https://carrefourbrfood.vtexassets.com/arquivos/ids/190162/501530_10.jpg?v=637272422019430000"
+                    ],
+                    "portion_size": "350ml"
+                },
+                {
+                    "id": 23,
+                    "name": "Água Mineral",
+                    "price": 3.50,
+                    "description": "Água purificada, sem gás.",
+                    "ingredients": [
+                        "água"
+                    ],
+                    "image": "https://www.graocaneca.com.br/wp-content/uploads/2022/05/Agua-Mineral-Natural-Sem-Gas-500ml-Cristal-Select-2.jpg",
+                    "images": [
+                        "https://www.graocaneca.com.br/wp-content/uploads/2022/05/Agua-Mineral-Natural-Sem-Gas-500ml-Cristal-Select-2.jpg",
+                        "https://static.escolakids.uol.com.br/2024/04/agua-mineral-sendo-despejada-em-um-copo-de-vidro.jpg",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4sKUy5jaFyfWdBBxz5FQC0gBnEH4cU_ONvX6IehIFHM3EGy85e_cp9Jabok0n7vfudeY&usqp=CAU"
+                    ],
+                    "portion_size": "500ml"
+                },
+                {
+                    "id": 24,
+                    "name": "Suco de Uva",
+                    "price": 7.00,
+                    "description": "Suco natural feito com uvas frescas.",
+                    "ingredients": [
+                        "uva"
+                    ],
+                    "image": "https://simplelivingrecipes.com/wp-content/uploads/2023/02/grape-juice-recipe-in-a-cup-1.jpg",
+                    "images": [
+                        "https://simplelivingrecipes.com/wp-content/uploads/2023/02/grape-juice-recipe-in-a-cup-1.jpg",
+                        "https://wx.mlcdn.com.br/ponzi/production/portaldalu/58836.jpg"
+                    ],
+                    "portion_size": "500ml"
+                },
+                {
+                    "id": 25,
+                    "name": "Cerveja Heineken",
+                    "price": 12.00,
+                    "description": "Cerveja tipo lager, com sabor suave e refrescante.",
+                    "ingredients": [
+                        "água",
+                        "cevada",
+                        "lúpulo",
+                        "fermento"
+                    ],
+                    "image": "https://http2.mlstatic.com/D_NQ_NP_697160-MLB78874845458_092024-O.webp",
+                    "images": [
+                        "https://http2.mlstatic.com/D_NQ_NP_697160-MLB78874845458_092024-O.webp",
+                        "https://majoricario.com.br/site/wp-content/uploads/2021/02/Heineken.png",
+                        "https://http2.mlstatic.com/D_NQ_NP_762036-MLB79112068807_092024-O.webp"
+                    ],
+                    "portion_size": "350ml"
+                }
+            ]
+        },
+        {
+            "category_id": 3,
+            "items": [
+                {
+                    "id": 31,
+                    "name": "Bolo de Rolo",
+                    "price": 12.90,
+                    "description": "Doce típico de Pernambuco, recheado com goiabada.",
+                    "ingredients": [
+                        "goiabada",
+                        "massa de bolo",
+                        "açúcar"
+                    ],
+                    "image": "https://i.ytimg.com/vi/JHE4dekt_CU/maxresdefault.jpg",
+                    "images": [
+                        "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/d5c3b12263781084d3e84b11c2d33027.jpg",
+                        "https://i.ytimg.com/vi/JHE4dekt_CU/maxresdefault.jpg",
+                        "https://eloisacola.com.br/wp-content/uploads/2022/01/rocambole-bolo-de-rolo.jpg",
+                        "https://storage.googleapis.com/imagens_videos_gou_cooking_prod/production/mesas/2019/08/d0038ae1-bolo-de-rolo-tm-doces-brasileiros-mariana-dias-6350-baixa-2.jpg"
+                    ],
+                    "portion_size": "Fatia"
+                },
+                {
+                    "id": 32,
+                    "name": "Pudim de Leite Condensado",
+                    "price": 10.00,
+                    "description": "Clássico pudim com leite condensado e calda de caramelo.",
+                    "ingredients": [
+                        "leite condensado",
+                        "açúcar",
+                        "ovos"
+                    ],
+                    "image": "https://static.itdg.com.br/images/640-440/d1307a2e17cda187df76b78cfd3ac464/shutterstock-2322251819-1-.jpg",
+                    "images": [
+                        "https://static.itdg.com.br/images/640-440/d1307a2e17cda187df76b78cfd3ac464/shutterstock-2322251819-1-.jpg",
+                        "https://www.minhareceita.com.br/app/uploads/2024/07/mobile-pudim-de-leite.png",
+                        "https://portal.lodivino.com.br/images/receitas/pudim-de-leite-condensado.jpg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 33,
+                    "name": "Mousse de Maracujá",
+                    "price": 9.50,
+                    "description": "Mousse cremosa de maracujá com base de biscoito.",
+                    "ingredients": [
+                        "maracujá",
+                        "creme de leite",
+                        "biscoito"
+                    ],
+                    "image": "https://static.itdg.com.br/images/640-440/8fed8f60d3c8e3990396e2478cbc7f2a/shutterstock-1905617575-1-.jpg",
+                    "images": [
+                        "https://static.itdg.com.br/images/640-440/8fed8f60d3c8e3990396e2478cbc7f2a/shutterstock-1905617575-1-.jpg",
+                        "https://receitadaboa.com.br/wp-content/uploads/2024/08/iStock-1497867944.jpg",
+                        "https://s2-receitas.glbimg.com/LM1z7kvNyZxCGdVLVQ3cX-pxuWI=/0x0:1366x768/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2024/U/1/NKCkfISMaHYqyIB3VB3w/mousse-de-maracuja-facil.jpg",
+                        "https://static.itdg.com.br/images/640-440/8231acb174ba2e6a4b4a61145e48eea7/249008-shutterstock-1907121220.jpg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 34,
+                    "name": "Brigadeiro",
+                    "price": 4.00,
+                    "description": "Doce de leite condensado com chocolate granulado.",
+                    "ingredients": [
+                        "leite condensado",
+                        "chocolate granulado"
+                    ],
+                    "image": "https://harald.com.br/wp-content/uploads/2020/04/briadeirogormet-melken-700x520-1.jpg",
+                    "images": [
+                        "https://harald.com.br/wp-content/uploads/2020/04/briadeirogormet-melken-700x520-1.jpg",
+                        "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Brigadeiro.jpg/640px-Brigadeiro.jpg",
+                        "https://static.wixstatic.com/media/2793e7_4993b53549d3478dad9679b6f72bebf3~mv2.jpg/v1/fill/w_480,h_480,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/2793e7_4993b53549d3478dad9679b6f72bebf3~mv2.jpg"
+                    ],
+                    "portion_size": "Unidade"
+                },
+                {
+                    "id": 35,
+                    "name": "Torta de Limão",
+                    "price": 15.00,
+                    "description": "Torta cremosa de limão com base crocante.",
+                    "ingredients": [
+                        "limão",
+                        "creme de leite",
+                        "biscoito"
+                    ],
+                    "image": "https://comidinhasdochef.com/wp-content/uploads/2016/05/Receita-Torta-de-Lim%C3%A3o.jpg",
+                    "images": [
+                        "https://comidinhasdochef.com/wp-content/uploads/2016/05/Receita-Torta-de-Lim%C3%A3o.jpg",
+                        "https://i.ytimg.com/vi/cc8QuY7seFQ/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLDHfU0p07v2sulyvWfEhKkk4HA2Jg",
+                        "https://s2-receitas.glbimg.com/rivw1t6Al9BsfodK1AY186hiF9E=/0x0:1080x608/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2022/0/1/x0YvBkTTaAlyCYfAEKSg/capa-materia-gshow-2022-01-25t132009.209.png"
+                    ],
+                    "portion_size": "Fatia"
+                }
+            ]
+        },
+        {
+            "category_id": 4,
+            "items": [
+                {
+                    "id": 201,
+                    "name": "Bolinho de Bacalhau",
+                    "price": 18.00,
+                    "description": "Bolinho crocante recheado com bacalhau desfiado e temperos.",
+                    "ingredients": [
+                        "bacalhau",
+                        "batata",
+                        "cebola",
+                        "salsinha",
+                        "farinha de trigo"
+                    ],
+                    "image": "https://www.saborbrasil.it/wp-content/uploads/2021/06/Bolinho-bacalhau-1024x768.jpg",
+                    "images": [
+                        "https://www.saborbrasil.it/wp-content/uploads/2021/06/Bolinho-bacalhau-1024x768.jpg",
+                        "https://vovopalmirinha.com.br/wp-content/uploads/2019/04/bolinho-de-bacalhau.jpg",
+                        "https://static.itdg.com.br/images/auto-auto/be6a152fa62fab8b538b0df85e0a232e/bolinho-de-bacalhau.jpg"
+                    ],
+                    "portion_size": "Unidade"
+                },
+                {
+                    "id": 202,
+                    "name": "Pastel de Carne",
+                    "price": 12.00,
+                    "description": "Pastel recheado com carne moída temperada, frito até dourar.",
+                    "ingredients": [
+                        "massa de pastel",
+                        "carne moída",
+                        "cebola",
+                        "alho",
+                        "azeitonas"
+                    ],
+                    "image": "https://fibo.promokit.com.br/images/empresa/5ed8b520-11c6-11ec-8d3a-0349e77cd552.jpeg",
+                    "images": [
+                        "https://fibo.promokit.com.br/images/empresa/5ed8b520-11c6-11ec-8d3a-0349e77cd552.jpeg",
+                        "https://fibo.promokit.com.br/images/empresa/58886070-11b8-11ec-8e6e-89193c4704ac.jpeg",
+                        "https://i.pinimg.com/474x/f7/3c/41/f73c4138f7620c232e4053831bd0c1f9.jpg"
+                    ],
+                    "portion_size": "Unidade"
+                },
+                {
+                    "id": 203,
+                    "name": "Coxinha de Frango",
+                    "price": 15.00,
+                    "description": "Coxinha crocante recheada com frango desfiado e temperos.",
+                    "ingredients": [
+                        "frango",
+                        "massa de coxinha",
+                        "cebola",
+                        "salsinha"
+                    ],
+                    "image": "https://i.pinimg.com/736x/2f/78/be/2f78be90f28e57efd3ca3969fa0dfc7d.jpg",
+                    "images": [
+                        "https://i.pinimg.com/736x/2f/78/be/2f78be90f28e57efd3ca3969fa0dfc7d.jpg",
+                        "https://i0.wp.com/www.flamboesa.com.br/wp-content/uploads/2017/06/coxinha9386.jpg?fit=1280%2C849",
+                        "https://vocegastro.com.br/app/uploads/2021/07/coxinha-de-frango.jpg",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCfTmWTUgnAaRFfSbxDSdxTNV0V9PHcNntYw&s"
+                    ],
+                    "portion_size": "Unidade"
+                },
+                {
+                    "id": 204,
+                    "name": "Bolinho de Arroz",
+                    "price": 10.00,
+                    "description": "Bolinho frito de arroz com queijo e temperos.",
+                    "ingredients": [
+                        "arroz",
+                        "queijo",
+                        "farinha de trigo",
+                        "cebola",
+                        "salsinha"
+                    ],
+                    "image": "https://guiadacozinha.com.br/wp-content/uploads/2020/08/bolinho-arroz-carreteiro-lingui%C3%A7a.jpg",
+                    "images": [
+                        "https://guiadacozinha.com.br/wp-content/uploads/2020/08/bolinho-arroz-carreteiro-lingui%C3%A7a.jpg",
+                        "https://img.cybercook.com.br/receitas/327/bolinho-de-arroz-2.jpeg",
+                        "https://s2-receitas.glbimg.com/PiQjmv_CNRurQMf8stNnxem3tyw=/0x0:600x387/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2020/P/D/hgO8L8SAKl5Ty9IQs9nA/bolinho-de-arroz-crocante.jpg",
+                        "https://img.cybercook.com.br/receitas/327/bolinho-de-arroz-2.jpeg"
+                    ],
+                    "portion_size": "Unidade"
+                },
+                {
+                    "id": 205,
+                    "name": "Mini Pão de Queijo",
+                    "price": 8.00,
+                    "description": "Mini pães de queijo crocantes e recheados com queijo minas.",
+                    "ingredients": [
+                        "queijo minas",
+                        "polvilho",
+                        "leite",
+                        "ovos"
+                    ],
+                    "image": "https://www.nannassalgados.com.br/template/images/pao-de-queijo/pao-de-queijo.jpg",
+                    "images": [
+                        "https://www.nannassalgados.com.br/template/images/pao-de-queijo/pao-de-queijo.jpg",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTR-ckhjBLACrlvgrT_DU36dlcwTuWP0iBzAQ&s",
+                        "https://static.wixstatic.com/media/1fa9c4_07bbe4a14ef54bcea2ab7b01ba9d6abf~mv2.jpeg/v1/fill/w_520,h_526,al_c,q_80,usm_0.66_1.00_0.01,enc_auto/1fa9c4_07bbe4a14ef54bcea2ab7b01ba9d6abf~mv2.jpeg"
+                    ],
+                    "portion_size": "Unidade"
+                },
+                {
+                    "id": 206,
+                    "name": "Calabresa Acebolada",
+                    "price": 22.00,
+                    "description": "Fatias de calabresa grelhada com cebola caramelizada.",
+                    "ingredients": [
+                        "linguiça calabresa",
+                        "cebola",
+                        "óleo",
+                        "temperos"
+                    ],
+                    "image": "https://minhasreceitinhas.com.br/wp-content/uploads/2022/12/maxresdefault-2022-12-29T065601.058.jpg",
+                    "images": [
+                        "https://minhasreceitinhas.com.br/wp-content/uploads/2022/12/maxresdefault-2022-12-29T065601.058.jpg",
+                        "https://cdn.manualdohomem.com.br/?w=1200&h=751&key=aHR0cHM6Ly9tYW51YWxkb2hvbWVtbW9kZXJuby5jb20uYnI=&u=http%3A%2F%2Fmanualdohomemmoderno.com.br%2Ffiles%2F2020%2F05%2Fcomo-fazer-calabresa-acebolada-na-cachaca-petiscos-pra-fazer-em-casa-como-fazer-calabresa-acebolada-na-cachaca-petiscos-pra-fazer-em-casa.jpg",
+                        "https://minhasreceitinhas.com.br/wp-content/uploads/2023/01/Batata-frita-com-calabresa-acebolada-2.png"
+                    ],
+                    "portion_size": "Porção para 2 pessoas"
+                },
+                {
+                    "id": 207,
+                    "name": "Asinhas de Frango Picantes",
+                    "price": 20.00,
+                    "description": "Asinhas de frango marinadas e fritas, com molho picante.",
+                    "ingredients": [
+                        "asas de frango",
+                        "molho picante",
+                        "temperos"
+                    ],
+                    "image": "https://sousvide.orvedbrock.com.br/wp-content/uploads/2024/06/Asa-de-frango-com-molho-picante-848x400.png",
+                    "images": [
+                        "https://sousvide.orvedbrock.com.br/wp-content/uploads/2024/06/Asa-de-frango-com-molho-picante-848x400.png",
+                        "https://sousvide.orvedbrock.com.br/wp-content/uploads/2024/06/Asa-de-frango-com-molho-picante.png",
+                        "https://www.adoro.com.br/wp-content/uploads/2022/12/Receita-de-asinha-de-frango-com-molho-de-mostarda-e-mel-.jpg"
+                    ],
+                    "portion_size": "Porção com 6 unidades"
+                },
+                {
+                    "id": 208,
+                    "name": "Pão de Alho",
+                    "price": 14.00,
+                    "description": "Pão crocante recheado com alho e manteiga.",
+                    "ingredients": [
+                        "pão",
+                        "alho",
+                        "manteiga",
+                        "salsinha"
+                    ],
+                    "image": "https://catracalivre.com.br/wp-content/uploads/2023/07/pao-alho-caseiro.jpg",
+                    "images": [
+                        "https://catracalivre.com.br/wp-content/uploads/2023/07/pao-alho-caseiro.jpg",
+                        "https://www.receiteria.com.br/wp-content/uploads/pao-de-alho-caseiro-capa.png",
+                        "https://naminhapanela.com/wp-content/uploads/2023/02/Pao-de-alho-no-forno-2-720x720.jpg"
+                    ],
+                    "portion_size": "Porção para 2 pessoas"
+                },
+                {
+                    "id": 210,
+                    "name": "Mini Hamburgueres",
+                    "price": 18.50,
+                    "description": "Mini hambúrgueres com queijo e molho especial.",
+                    "ingredients": [
+                        "carne de boi",
+                        "pão de hambúrguer",
+                        "queijo",
+                        "molho especial",
+                        "alface"
+                    ],
+                    "image": "https://www.perdigao.com.br/assets/_images/9e5c76e569b3545acb70587e76575ac522b0ae4c.webp",
+                    "images": [
+                        "https://www.perdigao.com.br/assets/_images/9e5c76e569b3545acb70587e76575ac522b0ae4c.webp",
+                        "https://rossettigastronomia.com.br/wp-content/uploads/2020/08/Rossetti-dia-3-368-of-408-scaled.jpg",
+                        "https://st2.depositphotos.com/1004288/5955/i/450/depositphotos_59553443-stock-photo-mini-hamburgers-with-french-fries.jpg",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQk7DSZfalNZ9ipyp1zNx0hs8aaqJJtaeX4pcp4btUxqrlL2ozwOyq_35nHPIpnmq0n0LM&usqp=CAU"
+                    ],
+                    "portion_size": "Porção com 3 unidades"
+                }
+            ]
+        },
+        {
+            "category_id": 6,
+            "items": [
+                {
+                    "id": 101,
+                    "name": "Espaguete à Carbonara",
+                    "price": 28.00,
+                    "description": "Espaguete com molho cremoso de ovos, queijo parmesão, bacon e pimenta.",
+                    "ingredients": [
+                        "espaguete",
+                        "ovo",
+                        "queijo parmesão",
+                        "bacon",
+                        "pimenta"
+                    ],
+                    "image": "https://cdn.urbano.com.br/uploads/espaguete-a-carbonara-800.jpg",
+                    "images": [
+                        "https://cdn.urbano.com.br/uploads/espaguete-a-carbonara-800.jpg",
+                        "https://vovopalmirinha.com.br/wp-content/uploads/2016/06/Receita-de-Macarr%C3%A3o-a-carbonara-1.jpg",
+                        "https://guiadacozinha.com.br/wp-content/uploads/2018/04/Receita-de-macarrao-a-carbonara.jpg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 102,
+                    "name": "Lasanha à Bolonhesa",
+                    "price": 35.00,
+                    "description": "Lasanha de carne moída com molho à bolonhesa e queijo gratinado.",
+                    "ingredients": [
+                        "massa de lasanha",
+                        "carne moída",
+                        "molho à bolonhesa",
+                        "queijo",
+                        "tomate"
+                    ],
+                    "image": "https://portal.lodivino.com.br/images/receitas/lasanha-a-bolonhesa.jpg",
+                    "images": [
+                        "https://portal.lodivino.com.br/images/receitas/lasanha-a-bolonhesa.jpg",
+                        "https://moinhoglobo.com.br/wp-content/uploads/2018/07/LASANHA-DESTAQUE-1.jpg",
+                        "https://cdn.casaeculinaria.com/wp-content/uploads/2023/12/10120623/Lasanha-a-bolonhesa-com-carne-moida.webp"
+                    ],
+                    "portion_size": "Porção para 2 pessoas"
+                },
+                {
+                    "id": 103,
+                    "name": "Fettuccine Alfredo",
+                    "price": 32.00,
+                    "description": "Fettuccine com molho cremoso de queijo parmesão, manteiga e creme de leite.",
+                    "ingredients": [
+                        "fettuccine",
+                        "queijo parmesão",
+                        "manteiga",
+                        "creme de leite"
+                    ],
+                    "image": "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/66cef03a-bad8-4c37-aba8-769aa62ec076/Derivates/d5049f83-4843-4504-aa92-253f1e141650.jpg",
+                    "images": [
+                        "https://assets.tmecosys.com/image/upload/t_web767x639/img/recipe/ras/Assets/66cef03a-bad8-4c37-aba8-769aa62ec076/Derivates/d5049f83-4843-4504-aa92-253f1e141650.jpg",
+                        "https://assets.unileversolutions.com/recipes-v2/215679.jpg",
+                        "https://www.thespruceeats.com/thmb/gTjo1gnOuBEVJsttgDW2JljvKY0=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/shrimp-fettuccine-alfredo-recipe-5205738-hero-01-1a40571b0e3e4a17ab768b4d700c7836.jpg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 104,
+                    "name": "Ravioli de Queijo com Molho de Manteiga",
+                    "price": 30.00,
+                    "description": "Ravioli recheado com queijo, servido com molho de manteiga e sálvia.",
+                    "ingredients": [
+                        "ravioli",
+                        "queijo",
+                        "manteiga",
+                        "sálvia"
+                    ],
+                    "image": "https://www.exemplo.com/imagens/ravioli_queijo.jpg",
+                    "images": [
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrAZEFhxJ9ldd5qMvll-tLOiDIWS2Iqs2X_URkCm2ryrGB-BG5enyYeexFo_1JWOHfGj0&usqp=CAU",
+                        "https://tirolez.com.br/wp-content/uploads/tirolezapi/receita-568.png",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNGIqq4VRMNnAw812PEmv1AtJjRBYLAitTgtWq_UkBKE-FdL_earQ4Gj4trBdtIv3Pawg&usqp=CAU"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 105,
+                    "name": "Penne ao Pesto",
+                    "price": 26.00,
+                    "description": "Penne servido com molho pesto de manjericão, pinoli e queijo parmesão.",
+                    "ingredients": [
+                        "penne",
+                        "manjericão",
+                        "pinoli",
+                        "queijo parmesão"
+                    ],
+                    "image": "https://s2-receitas.glbimg.com/Cj_bcRMccOUWFJoLH_gPKkU5rOE=/0x0:320x213/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/06/13/14/38/47/564/pesto.jpg",
+                    "images": [
+                        "https://s2-receitas.glbimg.com/Cj_bcRMccOUWFJoLH_gPKkU5rOE=/0x0:320x213/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/06/13/14/38/47/564/pesto.jpg",
+                        "https://www.schaer.com/sites/default/files/styles/panoramic_xxl/public/1849_Penne%20ao%20molho%20pesto%20com%20tomatinhos.jpg.webp",
+                        "https://sabores-new.s3.amazonaws.com/public/2024/11/penne_ao_pesto_de_agriao.jpg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 106,
+                    "name": "Macarrão com Molho de Tomate e Manjericão",
+                    "price": 24.00,
+                    "description": "Macarrão servido com molho de tomate fresco e folhas de manjericão.",
+                    "ingredients": [
+                        "macarrão",
+                        "tomate",
+                        "manjericão"
+                    ],
+                    "image": "https://www.entrepratosecopos.com.br/storage/receitas/imagem1_6662.jpg",
+                    "images": [
+                        "https://www.entrepratosecopos.com.br/storage/receitas/imagem1_6662.jpg",
+                        "https://images.mrcook.app/recipe-image/01923f13-604a-7b46-a241-37c4e549b2ae",
+                        "https://cdn.casaeculinaria.com/wp-content/uploads/2023/03/24134741/Macarrao-com-molho-de-tomate.jpg"
+                    ],
+                    "portion_size": "Individual"
+                }
+            ]
+        },
+        {
+            "category_id": 8,
+            "items": [
+                {
+                    "id": 301,
+                    "name": "Sanduíche de Frango Grelhado",
+                    "price": 18.00,
+                    "description": "Peito de frango grelhado com alface, tomate e maionese no pão francês.",
+                    "ingredients": [
+                        "peito de frango",
+                        "alface",
+                        "tomate",
+                        "maionese",
+                        "pão francês"
+                    ],
+                    "image": "https://www.auau.com.br/image/cache/data/up_system/product-13667/SANDUICHE-DE-FRANGO-1000x1000.jpg",
+                    "images": [
+                        "https://www.auau.com.br/image/cache/data/up_system/product-13667/SANDUICHE-DE-FRANGO-1000x1000.jpg",
+                        "https://www.perdigao.com.br/assets/_images/987ef44430d4b511c7a27d377dffaa1ad94cd4ea.webp",
+                        "https://assets.unileversolutions.com/recipes-v2/240147.jpg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 302,
+                    "name": "Hambúrguer Clássico",
+                    "price": 22.00,
+                    "description": "Hambúrguer de carne bovina, queijo cheddar, alface, tomate e maionese no pão de hambúrguer.",
+                    "ingredients": [
+                        "carne bovina",
+                        "queijo cheddar",
+                        "alface",
+                        "tomate",
+                        "maionese",
+                        "pão de hambúrguer"
+                    ],
+                    "image": "https://img77.uenicdn.com/image/upload/v1582164126/business/99def3c9-86a1-4c19-9317-d5376c18c298/hamburguer-shutterstockjpg.jpg",
+                    "images": [
+                        "https://img77.uenicdn.com/image/upload/v1582164126/business/99def3c9-86a1-4c19-9317-d5376c18c298/hamburguer-shutterstockjpg.jpg",
+                        "https://img.freepik.com/fotos-premium/hamburguer-classico-em-um-bar_367038-2854.jpg",
+                        "https://img.freepik.com/fotos-premium/um-hamburguer-em-uma-mesa-de-madeira-com-muita-comida_464787-56.jpg?w=360"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 303,
+                    "name": "Wrap de Frango com Caesar",
+                    "price": 20.00,
+                    "description": "Frango grelhado, molho Caesar, alface e queijo parmesão envoltos em uma tortilla.",
+                    "ingredients": [
+                        "frango grelhado",
+                        "molho Caesar",
+                        "alface",
+                        "queijo parmesão",
+                        "tortilla"
+                    ],
+                    "image": "https://www.exemplo.com/imagens/wrap_frango_caesar.jpg",
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 304,
+                    "name": "Sanduíche de Carne de Sol",
+                    "price": 19.00,
+                    "description": "Carne de sol desfiada, queijo coalho e maionese no pão de milho.",
+                    "ingredients": [
+                        "carne de sol",
+                        "queijo coalho",
+                        "maionese",
+                        "pão de milho"
+                    ],
+                    "image": "https://i-exc.ccm2.net/iex/1280/1333734844/1295694.jpg",
+                    "images": [
+                        "https://i-exc.ccm2.net/iex/1280/1333734844/1295694.jpg",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB2-3thn9IqvwV-7oV7o6iqAM8CjZVGhj6DBozKt6R5irgxX9Bf6-V_GF8n_oiZ60pbsQ&usqp=CAU"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 305,
+                    "name": "Hambúrguer Vegano",
+                    "price": 23.00,
+                    "description": "Hambúrguer de grão de bico, alface, tomate, cebola roxa e maionese vegana no pão de hambúrguer.",
+                    "ingredients": [
+                        "grão de bico",
+                        "alface",
+                        "tomate",
+                        "cebola roxa",
+                        "maionese vegana",
+                        "pão de hambúrguer"
+                    ],
+                    "image": "https://s2.glbimg.com/jqfaCA6V4Yb2xgU1JzPD200Kaxk=/smart/e.glbimg.com/og/ed/f/original/2018/07/20/matilda_vegano_wellington_nemeth_1.jpg",
+                    "images": [
+                        "https://s2.glbimg.com/jqfaCA6V4Yb2xgU1JzPD200Kaxk=/smart/e.glbimg.com/og/ed/f/original/2018/07/20/matilda_vegano_wellington_nemeth_1.jpg",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ7b-JbMOEtQWJUq4Ty3FqsY9QQ1GqxZS2Ij-lFRrsyktCH7ckf43ZO6dMKxg2UH6C4cdw&usqp=CAU",
+                        "https://img.cybercook.com.br/receitas/626/hamburguer-vegetariano-de-grao-de-bico-2.jpeg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 306,
+                    "name": "Sanduíche de Atum",
+                    "price": 17.00,
+                    "description": "Atum, maionese, alface e tomate no pão de forma.",
+                    "ingredients": [
+                        "atum",
+                        "maionese",
+                        "alface",
+                        "tomate",
+                        "pão de forma"
+                    ],
+                    "image": "https://www.exemplo.com/imagens/sanduiche_atum.jpg",
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 307,
+                    "name": "Baguete de Peito de Peru",
+                    "price": 21.00,
+                    "description": "Peito de peru, queijo suíço, alface, tomate e maionese na baguete.",
+                    "ingredients": [
+                        "peito de peru",
+                        "queijo suíço",
+                        "alface",
+                        "tomate",
+                        "maionese",
+                        "baguete"
+                    ],
+                    "image": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/662ee6acb3aeebff828b491cff6c4f85.jpg",
+                    "images": [
+                        "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/662ee6acb3aeebff828b491cff6c4f85.jpg",
+                        "https://s2-receitas.glbimg.com/6fykSnMl2V991Am4ISoIxRUCLQE=/0x0:626x418/984x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_1f540e0b94d8437dbbc39d567a1dee68/internal_photos/bs/2023/g/K/wpCuHsShWpmPFYJRBg8Q/whatsapp-image-2023-09-14-at-17.16.15.jpeg",
+                        "https://s2-receitas.glbimg.com/5eb7SJ5qT4txY0Z5gSwNOFYIKoI=/0x0:279x214/984x0/smart/filters:strip_icc()/s.glbimg.com/po/rc/media/2012/06/13/17/14/17/815/sanduiche_atum_light.jpg"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 309,
+                    "name": "Sanduíche de Picanha",
+                    "price": 25.00,
+                    "description": "Picanha grelhada, queijo prato, cebola caramelizada e maionese no pão de ciabatta.",
+                    "ingredients": [
+                        "picanha",
+                        "queijo prato",
+                        "cebola caramelizada",
+                        "maionese",
+                        "pão de ciabatta"
+                    ],
+                    "image": "https://www.cowpig.com.br/midias/imagens/WhatsApp%20Image%202021-11-28%20at%2019.58.01.16381404331.jpeg",
+                    "images": [
+                        "https://www.cowpig.com.br/midias/imagens/WhatsApp%20Image%202021-11-28%20at%2019.58.01.16381404331.jpeg",
+                        "https://nocentrodesp.com.br/images/receitas/sanduichepicanha_defumada_mercadaoreceitashome_2021.jpg",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFCFFN8OaICp4mF57Kjl5iQkb64DZu9HAr9gGGvTVVx4Rsu85iBB6BrLuR_MQHGi4gBZ0&usqp=CAU"
+                    ],
+                    "portion_size": "Individual"
+                },
+                {
+                    "id": 310,
+                    "name": "Sanduíche de Falafel",
+                    "price": 18.50,
+                    "description": "Falafel de grão de bico com alface, tomate e molho tahine no pão sírio.",
+                    "ingredients": [
+                        "falafel",
+                        "alface",
+                        "tomate",
+                        "molho tahine",
+                        "pão sírio"
+                    ],
+                    "image": "https://s2.glbimg.com/k6efU6-sLbLhFavr5TAQT-Sz1v4=/smart/e.glbimg.com/og/ed/f/original/2017/06/05/receita-sanduiche-falafel2.jpg",
+                    "images": [
+                        "https://s2.glbimg.com/k6efU6-sLbLhFavr5TAQT-Sz1v4=/smart/e.glbimg.com/og/ed/f/original/2017/06/05/receita-sanduiche-falafel2.jpg",
+                        "https://static.itdg.com.br/images/1200-630/8fed7fbf11b3ab174178a8b7037dd835/wrap-de-falafel-receita.jpg"
+                    ],
+                    "portion_size": "Individual"
+                }
+            ]
+        },
+        {
+            "category_id": 10,
+            "items": [
+                {
+                    "id": 101,
+                    "name": "Torta de Frango",
+                    "price": 18.00,
+                    "description": "Torta recheada com frango desfiado e molho cremoso.",
+                    "ingredients": [
+                        "frango",
+                        "massa",
+                        "creme de leite"
+                    ],
+                    "image": "https://receitadaboa.com.br/wp-content/uploads/2024/07/torta-de-frango.jpg",
+                    "images": [
+                        "https://receitadaboa.com.br/wp-content/uploads/2024/07/torta-de-frango.jpg",
+                        "https://benditosalgado.com.br/wp-content/uploads/2020/04/Torta-Frango-Catupiry2.jpg"
+                    ],
+                    "portion_size": "Fatia"
+                },
+                {
+                    "id": 102,
+                    "name": "Quiche de Alho Poró",
+                    "price": 22.00,
+                    "description": "Quiche deliciosa de alho poró com queijo.",
+                    "ingredients": [
+                        "alho poró",
+                        "massa",
+                        "queijo"
+                    ],
+                    "image": "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/d6a6f84f954f7f2751faba4d2a7005cb.jpg",
+                    "images": [
+                        "https://www.receitasnestle.com.br/sites/default/files/srh_recipes/d6a6f84f954f7f2751faba4d2a7005cb.jpg",
+                        "https://static.itdg.com.br/images/1200-675/1e8c1403bc9cfc648cf2f0598b9dee01/55837-original.jpg",
+                        "https://i1.wp.com/www.tvcatiafonseca.com.br/wp-content/uploads/2018/02/shutterstock_174464450-e1519687332384.jpg?fit=680%2C454&ssl=1"
+                    ],
+                    "portion_size": "Fatia"
+                },
+                {
+                    "id": 103,
+                    "name": "Bacalhau à Brás",
+                    "price": 27.00,
+                    "description": "Bacalhau desfiado com batatas e ovos mexidos.",
+                    "ingredients": [
+                        "bacalhau",
+                        "batata",
+                        "ovo"
+                    ],
+                    "image": "https://saboreiaavida.nestle.pt/sites/default/files/styles/receita_card_620x560/public/pictures/dbc3d120-5557-11e4-b7b1-d4ae52be23e7.png?h=80accfed&itok=D-7TwM7y",
+                    "images": [
+                        "https://saboreiaavida.nestle.pt/sites/default/files/styles/receita_card_620x560/public/pictures/dbc3d120-5557-11e4-b7b1-d4ae52be23e7.png?h=80accfed&itok=D-7TwM7y",
+                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgKRumdL__xpLw3QvA-ZlPU7hhFaYzOsMOwopiKa1qRiKhmxM99hOVcC5BgNiZGnDzf9Q&usqp=CAU"
+                    ],
+                    "portion_size": "Individual"
+                }
+            ]
+        }
+    ],
+    "home": [
+        {
+            "id": 401,
+            "name": "Pizza Marguerita",
+            "price": 28.00,
+            "description": "Pizza clássica com molho de tomate, queijo mussarela e manjericão fresco.",
+            "ingredients": [
+                "molho de tomate",
+                "queijo mussarela",
+                "manjericão",
+                "massa de pizza"
+            ],
+            "image": "https://media-cdn.tripadvisor.com/media/photo-s/08/76/29/e3/babbo-giovanni-curitiba.jpg",
+            "images": [
+                "https://media-cdn.tripadvisor.com/media/photo-s/08/76/29/e3/babbo-giovanni-curitiba.jpg",
+                "https://revistaexemplo.com.br/wp/wp-content/uploads/2015/10/216-Gastronomia-pizza-marguerita.jpg",
+                "https://static.itdg.com.br/images/auto-auto/b2fdf61ba8c0de23e095a3f1694ae25f/pizza.jpg"
+            ],
+            "portion_size": "Serve 2 pessoas"
+        },
+        {
+            "id": 402,
+            "name": "Taco Mexicano",
+            "price": 22.50,
+            "description": "Tortilla recheada com carne moída, queijo, alface e molho picante.",
+            "ingredients": [
+                "tortilla",
+                "carne moída",
+                "queijo",
+                "alface",
+                "molho picante"
+            ],
+            "image": "https://s2.glbimg.com/5VhHmz48r3GnFQWpKfjFYEGFQv0=/e.glbimg.com/og/ed/f/original/2018/10/18/receita_tacos.jpg",
+            "images": [
+                "https://s2.glbimg.com/5VhHmz48r3GnFQWpKfjFYEGFQv0=/e.glbimg.com/og/ed/f/original/2018/10/18/receita_tacos.jpg",
+                "https://img.cybercook.com.br/receitas/6/taco-mexicano-2.jpeg",
+                "https://www.restodonte.com.br/recipePics/9900837.jpg?v114"
+            ],
+            "portion_size": "Porção com 3 tacos"
+        },
+        {
+            "id": 403,
+            "name": "Risoto de Camarão",
+            "price": 38.90,
+            "description": "Arroz cremoso com camarões frescos, vinho branco e queijo parmesão.",
+            "ingredients": [
+                "arroz",
+                "camarão",
+                "vinho branco",
+                "queijo parmesão"
+            ],
+            "image": "https://www.evino.com.br/blog/wp-content/uploads/2022/08/risoto-de-camarao-scaled.jpg",
+            "images": [
+                "https://www.evino.com.br/blog/wp-content/uploads/2022/08/risoto-de-camarao-scaled.jpg",
+                "https://s2.glbimg.com/qGbQguetpxVZSoRS_3hRZ9QTPsY%3D/smart/e.glbimg.com/og/ed/f/original/2017/08/31/risoto_de_camarao_com_mucarela_de_bufala_e_tomate_seco_familia_paludo_foto_rodrigo_azevedo_2.jpg",
+                "https://s.glbimg.com/po/rc/media/2013/04/02/21_38_46_774_risoto_camarao.JPG"
+            ],
+            "portion_size": "Individual"
+        },
+        {
+            "id": 404,
+            "name": "Caldo Verde",
+            "price": 18.00,
+            "description": "Sopa portuguesa com couve, batatas e linguiça.",
+            "ingredients": [
+                "couve",
+                "batata",
+                "linguiça",
+                "alho"
+            ],
+            "image": "https://descomplicandoacozinha.com.br/wp-content/uploads/2020/06/caldo-verde.jpg",
+            "images": [
+                "https://descomplicandoacozinha.com.br/wp-content/uploads/2020/06/caldo-verde.jpg",
+                "https://wildgreensandsardines.com/wp-content/uploads/2020/02/Caldo-Verde_8404.jpg",
+                "https://www.daringgourmet.com/wp-content/uploads/2021/01/Caldo-Verde-4.jpg"
+            ],
+            "portion_size": "Porção Individual"
+        },
+        {
+            "id": 405,
+            "name": "Bruschetta de Tomate",
+            "price": 14.00,
+            "description": "Pão italiano tostado com tomate, manjericão e azeite.",
+            "ingredients": [
+                "pão italiano",
+                "tomate",
+                "manjericão",
+                "azeite"
+            ],
+            "image": "https://www.exemplo.com/imagens/bruschetta_tomate.jpg",
+            "portion_size": "Porção com 4 unidades"
+        },
+        {
+            "id": 406,
+            "name": "Lasanha à Bolonhesa",
+            "price": 34.50,
+            "description": "Massa de lasanha intercalada com molho bolonhesa, queijo e molho bechamel.",
+            "ingredients": [
+                "massa de lasanha",
+                "molho bolonhesa",
+                "queijo",
+                "molho bechamel"
+            ],
+            "image": "https://assets.unileversolutions.com/recipes-v2/37979.jpg",
+            "images": [
+                "https://assets.unileversolutions.com/recipes-v2/37979.jpg",
+                "https://www.jessicagavin.com/wp-content/uploads/2020/07/bruschetta-17-1200.jpg",
+                "https://www.painlaboulangere.com/var/ezdemo_site/storage/images/recettes/recette-bruschetta-tomate-mozzarella/3500-1-fre-FR/Bruschetta-Tomate-Mozzarella.jpg"
+            ],
+            "portion_size": "Serve 2 pessoas"
+        },
+        {
+            "id": 407,
+            "name": "Kebab de Cordeiro",
+            "price": 25.00,
+            "description": "Pão pita recheado com cordeiro grelhado, alface, tomate e molho de iogurte.",
+            "ingredients": [
+                "cordeiro",
+                "pão pita",
+                "alface",
+                "tomate",
+                "molho de iogurte"
+            ],
+            "image": "https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2010/11/kebab_cordeiro.jpg",
+            "images": [
+                "https://www.comidaereceitas.com.br/img/sizeswp/1200x675/2010/11/kebab_cordeiro.jpg",
+                "https://minervafoods.com/wp-content/uploads/2022/12/kebab-3.jpg",
+                "https://storage.googleapis.com/imagens_videos_gou_cooking_prod/production/cooking/dwBOMrhdrMTSKuXP6Tg9rRsiqUALJYSoggcK2xv6.jpeg"
+            ],
+            "portion_size": "Individual"
+        },
+        {
+            "id": 408,
+            "name": "Escondidinho de Carne Seca",
+            "price": 29.00,
+            "description": "Purê de mandioca com carne seca desfiada e gratinado com queijo.",
+            "ingredients": [
+                "mandioca",
+                "carne seca",
+                "queijo"
+            ],
+            "image": "https://guiadacozinha.com.br/wp-content/uploads/2019/10/escondidinho-de-carne-seca-com-batata-28334.jpg",
+            "images": [
+                "https://guiadacozinha.com.br/wp-content/uploads/2019/10/escondidinho-de-carne-seca-com-batata-28334.jpg",
+                "https://blog.bancadoramon.com.br/wp-content/uploads/2018/07/escondidinho-de-carne-seca-com-abobora-55916.jpg",
+                "https://s2.glbimg.com/fFTDtvvsxqShpmTZtmAneiQnbzI%3D/1200x/smart/filters%3Acover%28%29%3Astrip_icc%28%29/s.glbimg.com/po/rc/media/2012/06/13/15/22/57/363/escondidinho.jpg"
+            ],
+            "portion_size": "Individual"
+        },
+        {
+            "id": 409,
+            "name": "Ceviche Peruano",
+            "price": 24.00,
+            "description": "Peixe branco marinado em limão, cebola roxa, pimentas e coentro.",
+            "ingredients": [
+                "peixe branco",
+                "limão",
+                "cebola roxa",
+                "pimenta",
+                "coentro"
+            ],
+            "image": "https://imag.bonviveur.com/ceviche-peruano-de-pescado.jpg",
+            "images": [
+                "https://imag.bonviveur.com/ceviche-peruano-de-pescado.jpg",
+                "https://blog.redbus.pe/wp-content/uploads/2017/09/Ceviche_with_cancha_at_Peruvian_Market_Caracas.jpg",
+                "https://unareceta.com/wp-content/uploads/2014/07/ceviche-peruano.jpg"
+            ],
+            "portion_size": "Individual"
+        },
+        {
+            "id": 410,
+            "name": "Bolo de Chocolate com Ganache",
+            "price": 12.00,
+            "description": "Bolo de chocolate macio com cobertura cremosa de ganache.",
+            "ingredients": [
+                "chocolate",
+                "farinha",
+                "ovos",
+                "açúcar",
+                "creme de leite"
+            ],
+            "image": "https://www.averiecooks.com/wp-content/uploads/2012/08/chocolatecake-14.jpg",
+            "images": [
+                "https://www.averiecooks.com/wp-content/uploads/2012/08/chocolatecake-14.jpg",
+                "https://jalna.com.au/wp-content/uploads/2020/01/Jalna-Recipe-Chocolate-Fudge-Cake.jpg"
+            ],
+            "portion_size": "Fatia"
+        }
+    ],
+    "restarants": [
+        {
+            "restarant": [
+                {
+                    "name": "McDonals'",
+                    "avaliation": 4.5,
+                    "open": "24 horas",
+                    "lacalization": "R. Baruel, 689 - Vila Costa, Suzano - SP, 08675-000",
+                    "logo": "https://w7.pngwing.com/pngs/873/995/png-transparent-mcdonald-s-logo-oldest-mcdonald-s-restaurant-ronald-mcdonald-logo-golden-arches-mcdonalds-miscellaneous-angle-food-thumbnail.png",
+                    "menu": [
+                        {
+                            "categoria_id": 1,
+                            "itens": [
+                                {
+                                    "id": 101,
+                                    "name": "Big Mac",
+                                    "price": 25.00,
+                                    "description": "O icônico sanduíche com dois hambúrgueres, alface, queijo, molho especial, cebola e picles no pão com gergelim.",
+                                    "ingredients": [
+                                        "hambúrguer",
+                                        "alface",
+                                        "queijo",
+                                        "molho especial",
+                                        "cebola",
+                                        "picles",
+                                        "pão com gergelim"
+                                    ],
+                                    "image": "https://s7d1.scene7.com/is/image/mcdonalds/DC_202307_8936_EVM_M_BigMac_Coke_1564x1564-1:product-header-mobile?wid=1313&hei=1313&dpr=off",
+                                    "images": [
+                                        "https://s7d1.scene7.com/is/image/mcdonalds/DC_202307_8936_EVM_M_BigMac_Coke_1564x1564-1:product-header-mobile?wid=1313&hei=1313&dpr=off"
+                                    ],
+                                    "portion_size": "Individual"
+                                },
+                                {
+                                    "id": 102,
+                                    "name": "McChicken",
+                                    "price": 22.00,
+                                    "description": "Sanduíche com peito de frango empanado, alface e maionese especial no pão com gergelim.",
+                                    "ingredients": [
+                                        "frango empanado",
+                                        "alface",
+                                        "maionese",
+                                        "pão com gergelim"
+                                    ],
+                                    "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kKXGzDAK/200/200/original?country=br",
+                                    "images": [
+                                        "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kKXGzDAK/200/200/original?country=br"
+                                    ],
+                                    "portion_size": "Individual"
+                                },
+                                {
+                                    "id": 103,
+                                    "name": "Cheeseburger",
+                                    "price": 15.00,
+                                    "description": "Hambúrguer clássico com queijo, picles, cebola e ketchup no pão com gergelim.",
+                                    "ingredients": [
+                                        "hambúrguer",
+                                        "queijo",
+                                        "picles",
+                                        "cebola",
+                                        "ketchup",
+                                        "pão com gergelim"
+                                    ],
+                                    "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXNUCF7/200/200/original?country=br",
+                                    "images": [
+                                        "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXNUCF7/200/200/original?country=br"
+                                    ],
+                                    "portion_size": "Individual"
+                                },
+                                {
+                                    "id": 104,
+                                    "name": "Quarterão com Queijo",
+                                    "price": 27.00,
+                                    "description": "Hambúrguer maior com queijo, cebola, ketchup e mostarda no pão com gergelim.",
+                                    "ingredients": [
+                                        "hambúrguer",
+                                        "queijo",
+                                        "cebola",
+                                        "ketchup",
+                                        "mostarda",
+                                        "pão com gergelim"
+                                    ],
+                                    "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXNUCF7/200/200/original?country=br",
+                                    "images": [
+                                        "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kzXNUCF7/200/200/original?country=br"
+                                    ],
+                                    "portion_size": "Individual"
+                                },
+                                {
+                                    "id": 105,
+                                    "name": "McFish",
+                                    "price": 20.00,
+                                    "description": "Sanduíche com filé de peixe empanado, queijo e molho tártaro no pão.",
+                                    "ingredients": [
+                                        "filé de peixe empanado",
+                                        "queijo",
+                                        "molho tártaro",
+                                        "pão"
+                                    ],
+                                    "image": "https://media.semprefamilia.com.br/semprefamilia/2017/03/o-filet-o-fish-facebook-64127d44.jpg",
+                                    "images": [
+                                        "https://media.semprefamilia.com.br/semprefamilia/2017/03/o-filet-o-fish-facebook-64127d44.jpg"
+                                    ],
+                                    "portion_size": "Individual"
+                                },
+                                {
+                                    "id": 108,
+                                    "name": "Double Cheeseburger",
+                                    "price": 30.00,
+                                    "description": "Sanduíche com dois hambúrgueres, duas fatias de queijo, cebola, picles, ketchup e mostarda no pão com gergelim.",
+                                    "ingredients": [
+                                        "hambúrguer",
+                                        "queijo",
+                                        "cebola",
+                                        "picles",
+                                        "ketchup",
+                                        "mostarda",
+                                        "pão com gergelim"
+                                    ],
+                                    "image": "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202302_0004-999_DoubleCheeseburger_Alt_1564x1564:product-header-mobile?wid=1313&hei=1313&dpr=off",
+                                    "images": [
+                                        "https://s7d1.scene7.com/is/image/mcdonaldsstage/DC_202302_0004-999_DoubleCheeseburger_Alt_1564x1564:product-header-mobile?wid=1313&hei=1313&dpr=off"
+                                    ],
+                                    "portion_size": "Individual"
+                                },
+                                {
+                                    "id": 109,
+                                    "name": "Big Tasty",
+                                    "price": 32.00,
+                                    "description": "Sanduíche com hambúrguer grande, queijo, tomate, alface e molho especial no pão com gergelim.",
+                                    "ingredients": [
+                                        "hambúrguer",
+                                        "queijo",
+                                        "tomate",
+                                        "alface",
+                                        "molho especial",
+                                        "pão com gergelim"
+                                    ],
+                                    "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kDX8k9xx/200/200/original?country=br",
+                                    "images": [
+                                        "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kDX8k9xx/200/200/original?country=br"
+                                    ],
+                                    "portion_size": "Individual"
+                                }
+                            ]
+                        },
+                        {
+                            "categoria_id": 2,
+                            "items": [
+                                {
+                                    "id": 21,
+                                    "name": "Suco Natural de Laranja",
+                                    "price": 6.50,
+                                    "description": "Suco 100% natural, sem adição de açúcares.",
+                                    "ingredients": [
+                                        "laranja"
+                                    ],
+                                    "image": "https://i.pinimg.com/474x/39/46/89/3946894a2290cb6a74ebd8b1ff186421.jpg",
+                                    "images": [
+                                        "https://i.pinimg.com/474x/39/46/89/3946894a2290cb6a74ebd8b1ff186421.jpg",
+                                        "https://www.santolegume.com.br/wp-content/uploads/suco-laranja-agua-coco.jpg",
+                                        "https://www.draanaescobar.com.br/wp-content/uploads/2018/06/jarra-e-copo-com-suco-de-laranja-frutas-cortadas-e1563396583389.jpg"
+                                    ],
+                                    "portion_size": "500ml"
+                                },
+                                {
+                                    "id": 22,
+                                    "name": "Refrigerante Coca-Cola",
+                                    "price": 8.00,
+                                    "description": "Refrigerante clássico de cola.",
+                                    "ingredients": [
+                                        "agua gaseificada",
+                                        "açúcar",
+                                        "aroma"
+                                    ],
+                                    "image": "https://w7.pngwing.com/pngs/692/190/png-transparent-fizzy-drinks-coca-cola-mcdonald-s-big-mac-diet-coke-hamburger-coca-cola.png",
+                                    "images": [
+                                        "https://w7.pngwing.com/pngs/692/190/png-transparent-fizzy-drinks-coca-cola-mcdonald-s-big-mac-diet-coke-hamburger-coca-cola.png"
+                                    ],
+                                    "portion_size": "350ml"
+                                },
+                                {
+                                    "id": 23,
+                                    "name": "Refrigerante Fanta laranja",
+                                    "price": 8.00,
+                                    "description": "Refrigerante clássico da fanta.",
+                                    "ingredients": [
+                                        "agua gaseificada",
+                                        "açúcar",
+                                        "aroma"
+                                    ],
+                                    "image": "https://static.ifood-static.com.br/image/upload/t_high/pratos/86e485a6-98e4-44d9-b4a9-bfd83dc649ac/202105101428_17H4_f.png",
+                                    "images": [
+                                        "https://static.ifood-static.com.br/image/upload/t_high/pratos/86e485a6-98e4-44d9-b4a9-bfd83dc649ac/202105101428_17H4_f.png"
+                                    ],
+                                    "portion_size": "350ml"
+                                },
+                                {
+                                    "id": 26,
+                                    "name": "Refrigerante Guaraná",
+                                    "price": 8.00,
+                                    "description": "Refrigerante clássico da Guaraná.",
+                                    "ingredients": [
+                                        "agua gaseificada",
+                                        "açúcar",
+                                        "aroma"
+                                    ],
+                                    "image": "https://supercolecao.com/sites/default/files/styles/large/public/images/collections/cans/lata-guarana-antarctica-borala-11587.jpg?itok=CqP9tRjr",
+                                    "images": [
+                                        "https://supercolecao.com/sites/default/files/styles/large/public/images/collections/cans/lata-guarana-antarctica-borala-11587.jpg?itok=CqP9tRjr"
+                                    ],
+                                    "portion_size": "350ml"
+                                },
+                                {
+                                    "id": 24,
+                                    "name": "Suco de Uva",
+                                    "price": 7.00,
+                                    "description": "Suco natural feito com uvas frescas.",
+                                    "ingredients": [
+                                        "uva"
+                                    ],
+                                    "image": "https://simplelivingrecipes.com/wp-content/uploads/2023/02/grape-juice-recipe-in-a-cup-1.jpg",
+                                    "images": [
+                                        "https://simplelivingrecipes.com/wp-content/uploads/2023/02/grape-juice-recipe-in-a-cup-1.jpg",
+                                        "https://wx.mlcdn.com.br/ponzi/production/portaldalu/58836.jpg"
+                                    ],
+                                    "portion_size": "500ml"
+                                }
+                            ]
+                        },
+                        {
+                            "categoria_id": 3,
+                            "items": [
+                                {
+                                    "id": 1,
+                                    "name": "Sundae de Chocolate",
+                                    "price": 9.90,
+                                    "description": "Sundae clássico com calda de chocolate.",
+                                    "ingredients": [
+                                        "sorvete de baunilha",
+                                        "calda de chocolate"
+                                    ],
+                                    "image": "https://mcdonalds.bg/wp-content/uploads/2023/08/ice-cream_chocolate-chocolate_sok.png",
+                                    "images": [
+                                        "https://mcdonalds.bg/wp-content/uploads/2023/08/ice-cream_chocolate-chocolate_sok.png"
+                                    ],
+                                    "portion_size": "Individual"
+                                },
+                                {
+                                    "id": 2,
+                                    "name": "Sundae de Morango",
+                                    "price": 9.90,
+                                    "description": "Sundae clássico com calda de morango.",
+                                    "ingredients": [
+                                        "sorvete de baunilha",
+                                        "calda de morango"
+                                    ],
+                                    "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXltAm5/200/200/original?country=br",
+                                    "images": [
+                                        "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kpXltAm5/200/200/original?country=br"
+                                    ],
+                                    "portion_size": "Individual"
+                                },
+                                {
+                                    "id": 3,
+                                    "name": "McFlurry Ovomaltine",
+                                    "price": 12.50,
+                                    "description": "Sorvete cremoso com calda de chocolate e flocos de Ovomaltine.",
+                                    "ingredients": [
+                                        "sorvete de baunilha",
+                                        "calda de chocolate",
+                                        "ovomaltine"
+                                    ],
+                                    "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kRX3z5qu/200/200/original?country=br",
+                                    "images": [
+                                        "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$kRX3z5qu/200/200/original?country=br"
+                                    ],
+                                    "portion_size": "Individual"
+                                },
+                                {
+                                    "id": 4,
+                                    "name": "Torta de Maçã",
+                                    "price": 7.50,
+                                    "description": "Torta quente recheada com maçã e canela.",
+                                    "ingredients": [
+                                        "maçã",
+                                        "massa folhada",
+                                        "açúcar",
+                                        "canela"
+                                    ],
+                                    "image": "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$krXTZ9Ue/200/200/original?country=br",
+                                    "images": [
+                                        "https://cache-backend-mcd.mcdonaldscupones.com/media/image/product$krXTZ9Ue/200/200/original?country=br"
+                                    ],
+                                    "portion_size": "Individual"
+                                },
+                                {
+                                    "id": 5,
+                                    "name": "Top Sundae de Caramelo",
+                                    "price": 10.50,
+                                    "description": "Sundae com calda de caramelo e cobertura extra de crocante.",
+                                    "ingredients": [
+                                        "sorvete de baunilha",
+                                        "calda de caramelo",
+                                        "granulado crocante"
+                                    ],
+                                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqZqglr8QjXtGLFx_xHXF5nUTDgZ4zjpud8w&s",
+                                    "images": [
+                                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRqZqglr8QjXtGLFx_xHXF5nUTDgZ4zjpud8w&s"
+                                    ],
+                                    "portion_size": "Individual"
+                                }
+                            ]
+                        }
+                    ]
+                },
+                {
+                    "name": "Burger King",
+                    "avaliation": 4.3,
+                    "open": "24 horas",
+                    "localization": "R. Prudente de Morais, 650 - Vila Amorim, Suzano - SP, 08674-050",
+                    "logo": "https://logospng.org/wp-content/uploads/burger-king.png",
+                    "menu": [
+                        {
+                            "categoria_id": 1,
+                            "itens": [
+                                {
+                                    "id": 201,
+                                    "name": "Whopper",
+                                    "price": 26.00,
+                                    "description": "O clássico Whopper com hambúrguer grelhado no fogo, alface, tomate, cebola, picles, maionese e ketchup no pão com gergelim.",
+                                    "ingredients": [
+                                        "hambúrguer grelhado",
+                                        "alface",
+                                        "tomate",
+                                        "cebola",
+                                        "picles",
+                                        "maionese",
+                                        "ketchup",
+                                        "pão com gergelim"
+                                    ],
+                                    "image": "https://d3sn2rlrwxy0ce.cloudfront.net/_800x600_crop_center-center_none/whopper-thumb_2021-09-16-125319_mppe.png?mtime=20210916125320&focal=none&tmtime=20241024164409",
+                                    "images": [
+                                        "https://d3sn2rlrwxy0ce.cloudfront.net/_800x600_crop_center-center_none/whopper-thumb_2021-09-16-125319_mppe.png?mtime=20210916125320&focal=none&tmtime=20241024164409"
+                                    ],
+                                    "portion_size": "Individual"
+                                },
+                                {
+                                    "id": 202,
+                                    "name": "Chicken Sandwich",
+                                    "price": 22.00,
+                                    "description": "Sanduíche com peito de frango empanado, alface e maionese no pão com gergelim.",
+                                    "ingredients": [
+                                        "peito de frango empanado",
+                                        "alface",
+                                        "maionese",
+                                        "pão com gergelim"
+                                    ],
+                                    "image": "https://bk-latam-prod.s3.amazonaws.com/sites/burgerking.bs/files/New_OCS_detail.png",
+                                    "images": [
+                                        "https://bk-latam-prod.s3.amazonaws.com/sites/burgerking.bs/files/New_OCS_detail.png"
+                                    ],
+                                    "portion_size": "Individual"
+                                }
+                            ]
+                        },
+                        {
+                            "categoria_id": 2,
+                            "items": [
+                                {
+                                    "id": 301,
+                                    "name": "Refrigerante Pepsi",
+                                    "price": 8.00,
+                                    "description": "Refrigerante clássico de cola.",
+                                    "ingredients": [
+                                        "água gaseificada",
+                                        "açúcar",
+                                        "aromatizante"
+                                    ],
+                                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnUTllbJ_5KRlngUz7gnzrKU7KugZQwcSsw&s",
+                                    "images": [
+                                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQnUTllbJ_5KRlngUz7gnzrKU7KugZQwcSsw&s"
+                                    ],
+                                    "portion_size": "350ml"
+                                },
+                                {
+                                    "id": 302,
+                                    "name": "Suco de Laranja Natural",
+                                    "price": 6.50,
+                                    "description": "Suco natural feito com laranjas frescas.",
+                                    "ingredients": [
+                                        "laranja"
+                                    ],
+                                    "image": "https://static.ifood-static.com.br/image/upload/t_high/pratos/6e73dce2-a17f-4aef-9035-1409cea198fe/202306291442_3UQ2_i.jpg",
+                                    "images": [
+                                        "https://static.ifood-static.com.br/image/upload/t_high/pratos/6e73dce2-a17f-4aef-9035-1409cea198fe/202306291442_3UQ2_i.jpg"
+                                    ],
+                                    "portion_size": "500ml"
+                                }
+                            ]
+                        },
+                        {
+                            "categoria_id": 3,
+                            "items": [
+                                {
+                                    "id": 401,
+                                    "name": "Sundae de Chocolate",
+                                    "price": 10.00,
+                                    "description": "Sundae clássico com calda de chocolate.",
+                                    "ingredients": [
+                                        "sorvete de baunilha",
+                                        "calda de chocolate"
+                                    ],
+                                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zWzsclcuT71esSKgQI6ahHq3kfPwDKZYbA&s",
+                                    "images": [
+                                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0zWzsclcuT71esSKgQI6ahHq3kfPwDKZYbA&s"
+                                    ],
+                                    "portion_size": "Individual"
+                                },
+                                {
+                                    "id": 402,
+                                    "name": "Torta de Maçã",
+                                    "price": 8.00,
+                                    "description": "Torta quente recheada com maçã e canela.",
+                                    "ingredients": [
+                                        "maçã",
+                                        "massa folhada",
+                                        "açúcar",
+                                        "canela"
+                                    ],
+                                    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPh0tSRwKExWbSDQ1O65EBqvgyteaOwAVbzQ&s",
+                                    "images": [
+                                        "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSPh0tSRwKExWbSDQ1O65EBqvgyteaOwAVbzQ&s"
+                                    ],
+                                    "portion_size": "Individual"
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
